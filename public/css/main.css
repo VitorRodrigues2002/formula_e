@@ -1,0 +1,55 @@
+header {
+  z-index: 9999;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.intro{
+  display: flex;
+}
+
+.logo{
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rotas{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.piloto{
+  display: flex;
+}
+
+.pilo_img{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nome_pilo{
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  text-decoration: none;
+}
+
+.detalhes{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.botao{
+  background-color: white;
+  color: black;
+  border: 2px solid #00ccff; 
+  text-decoration: none;
+}
+
+input#create{
+  border:2px solid black;
+}
